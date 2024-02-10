@@ -19,3 +19,11 @@ if 11 in list_print :
 
 else:
     print("N0!!, its not exits here.")
+
+
+
+#Tupple
+list = (44,55,77,'jim',3.56)
+
+for i in list_print:
+    print(i)
