@@ -1,7 +1,7 @@
 oparator = input('Enter The oparator  here :')
 numbers = list(map(int, input().split()))
 
-match oparator:
+match oparator: 
     case '+':
         print(sum(numbers))
    case '-':
